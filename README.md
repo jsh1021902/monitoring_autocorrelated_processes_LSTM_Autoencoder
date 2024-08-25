@@ -1,0 +1,2 @@
+# monitoring_autocorrelated_processes_LSTM_Autoencoder
+Procedure for monitoring autocorrelated processes using LSTM Autoencoder
